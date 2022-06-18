@@ -31,11 +31,13 @@
       "size" : "40x40"
     },
     {
+      "filename" : "Weather_App_120x120.jpeg",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "Weather_App_1_180x180.jpeg",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
